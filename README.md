@@ -10,3 +10,4 @@ This repository documents my 30-day skill-building journey in:
 - Healthcare Data
 
 Day 1: Setup and foundation building.
+Day 2: Created pandas dataframe and basic exploration
